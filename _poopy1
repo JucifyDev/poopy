@@ -1,0 +1,7 @@
+function editWebsite() {
+  document.title = "Poopy";
+  
+  document.body.style.backgroundColor = "red";
+
+// Call the functions to edit the website
+editWebsite();
